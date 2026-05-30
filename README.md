@@ -19,11 +19,6 @@ I'm a big believer in working smart. While I don't write deep automation scripts
 - **Tools I Actually Use:** Burp Suite, Nmap, Wireshark
 
 ---
-
-### GitHub Stats
-![bxkthwlei's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxkthwlei&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxkthwlei&layout=compact&theme=tokyonight)
-
 ### Let's Connect
 - **Email:** rootbase38@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/bhone-zin-min-set-10a1673a4
