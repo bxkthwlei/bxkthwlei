@@ -1,4 +1,4 @@
-# Hi, I'm lizzalpha 
+# Hi, I'm bxkthwlei 
 
 I'm a second-year cybersecurity student who spends most of my free time playing CTFs, hacking labs, and figuring out how stuff breaks. I'm currently leaning towards offensive security, with the ultimate goal of becoming a Red Teamer. 
 
